@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-04T19:06:59 EDT" name="Suite" finished-at="2020-06-04T19:07:17 EDT" duration-ms="17749">
+    <groups>
+    </groups>
+    <test started-at="2020-06-04T19:06:59 EDT" name="Test" finished-at="2020-06-04T19:07:17 EDT" duration-ms="17749">
+      <class name="HomeWork.letsKodeitTest">
+        <test-method is-config="true" signature="setUpDriver()[pri:0, instance:HomeWork.letsKodeitTest@145eaa29]" started-at="2020-06-04T19:07:10 EDT" name="setUpDriver" finished-at="2020-06-04T19:07:13 EDT" duration-ms="3063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriver -->
+        <test-method signature="pagePractice()[pri:0, instance:HomeWork.letsKodeitTest@145eaa29]" started-at="2020-06-04T19:07:13 EDT" name="pagePractice" finished-at="2020-06-04T19:07:17 EDT" duration-ms="3532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pagePractice -->
+        <test-method is-config="true" signature="closeAll()[pri:0, instance:HomeWork.letsKodeitTest@145eaa29]" started-at="2020-06-04T19:07:17 EDT" name="closeAll" finished-at="2020-06-04T19:07:17 EDT" duration-ms="613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAll -->
+      </class> <!-- HomeWork.letsKodeitTest -->
+      <class name="HomeWork.CheapOAirTest">
+        <test-method is-config="true" signature="setUpDriver()[pri:0, instance:HomeWork.CheapOAirTest@6328d34a]" started-at="2020-06-04T19:06:59 EDT" name="setUpDriver" finished-at="2020-06-04T19:07:03 EDT" duration-ms="3656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriver -->
+        <test-method signature="flightsPage()[pri:0, instance:HomeWork.CheapOAirTest@6328d34a]" started-at="2020-06-04T19:07:03 EDT" name="flightsPage" finished-at="2020-06-04T19:07:09 EDT" duration-ms="6140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightsPage -->
+        <test-method is-config="true" signature="closeAll()[pri:0, instance:HomeWork.CheapOAirTest@6328d34a]" started-at="2020-06-04T19:07:09 EDT" name="closeAll" finished-at="2020-06-04T19:07:10 EDT" duration-ms="682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAll -->
+      </class> <!-- HomeWork.CheapOAirTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
